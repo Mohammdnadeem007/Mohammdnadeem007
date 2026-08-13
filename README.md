@@ -61,6 +61,7 @@ Data Analyst with **1+ year of enterprise experience at Cognizant**, specializin
 
 **Languages & Databases:**
 
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
