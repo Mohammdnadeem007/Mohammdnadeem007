@@ -38,7 +38,7 @@ Data Analyst with **1+ year of enterprise experience at Cognizant**, specializin
 | Certification | Platform | Status |
 |--------------|----------|--------|
 | **SQL (Basic)** | <a href="https://www.hackerrank.com/certificates/d9d3a710ed9d" target="_blank">HackerRank</a> | ✅ Verified |
-| **SQL (Intermediate)** | <a href="https://www.hackerrank.com/certificates/YOUR_INTERMEDIATE_SQL_LINK" target="_blank">HackerRank</a> | ✅ Verified |
+| **SQL (Intermediate)** | <a href="https://www.hackerrank.com/certificates/2221094778f9" target="_blank">HackerRank</a> | ✅ Verified |
 | **Virtual Experience** | <a href="https://www.theforage.com/dashboard" target="_blank">Forage</a> | ✅ Completed |
 | **Data Science** | <a href="https://nptel.ac.in/" target="_blank">NPTEL</a> | ✅ Certified |
 
